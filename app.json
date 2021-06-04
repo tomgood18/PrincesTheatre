@@ -1,0 +1,12 @@
+{
+  "name": "PrincesTheatre",
+  "displayName": "PrincesTheatre",
+  "expo": {
+    "name": "PrincesTheatre",
+    "slug": "PrincesTheatre",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
