@@ -33,7 +33,6 @@ const styles = {
     low: {
         color: '#228C22',
         fontSize: 15
-
     },
     high: {
         color: '#FF0000',
