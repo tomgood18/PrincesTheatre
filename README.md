@@ -4,6 +4,18 @@ Lexicon Digital Coding Challenge
 Lexicon Digital has been engaged by Princes Theatre to build a price comparison tool to compare two cinemas - Cinemaworld & Filmworld.
 This system allows their users to see the movies that are available and highlights which movie provider is streaming at the cheapest price.
 
+### Prerequisites
+
+Expo CLI
+```
+npm install --global expo-cli
+```
+
+Jest-expo & Enzyme
+```
+npm i jest-expo-enzyme --save-dev
+```
+
 ## Getting Started
 
 Download the project
@@ -18,24 +30,7 @@ Install dependencies
 npm install
 ```
 
-### Prerequisites
-
-Expo CLI
-```
-npm install --global expo-cli
-```
-
-Jest-expo & Enzyme
-```
-npm i jest-expo-enzyme --save-dev
-```
-
 ### Running environment
-
-Change to project directory
-```
-cd PrincesTheatre
-```
 
 Start Expo
 ```
@@ -44,7 +39,6 @@ expo start
 
 ## Running the tests
 
-Start Expo
 ```
 npm run test
 ```
